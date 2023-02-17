@@ -1,0 +1,18 @@
+.contenedor-selects-buttons{
+    display: flex;
+    width: 100%;
+    
+    justify-content: space-between;
+    
+}
+
+.selects{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+    
+}
+
+.selects select{
+    width: 200px;
+}
